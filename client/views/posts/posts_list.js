@@ -15,6 +15,6 @@ var postsData = [
 		url: 'http://evturn.com'
 	}
 ];
-Template.postList.helpers({
-	posts:postsData
+Template.postsList.helpers({
+  posts: postsData
 });
