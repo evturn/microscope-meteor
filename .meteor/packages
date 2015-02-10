@@ -8,4 +8,5 @@ meteor-platform
 insecure
 mizzao:bootstrap-3
 handlebars
+underscore
 iron-router
